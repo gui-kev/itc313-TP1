@@ -1,15 +1,15 @@
 # ITC313-TP2
 # Participants : GUIFFO KUICHEU Kevin, BISSE SOWE Emmanuel Arthur
 
-## Question 1 : Création de la classe Magasin
+### Question 1 : Création de la classe Magasin
 * Création de la classe Magasin avec  ses trois variables membres et son constructeur.
 	* Programme Magasin-test permettant de créer un objet (vide) de type magasin.
 	
-## Question 2 : Création de la classe Produit
+#### Question 2 : Création de la classe Produit
 	* Création de la classe Produit.
 	* Surcharge de l'opérateur << pour pouvoir afficher un produit.
 
-## Question 3 : Ajout de fonctionnalités à Magasin
+##### Question 3 : Ajout de fonctionnalités à Magasin
 	* Ajouter à la classe Magasin une méthode permettant d'ajouter un nouveau produit au magasin.
 	* Ecrire une méthode permettant d'afficher à l'écran tous les produits référencés dans le magasin.
 	* Ecrire une méthode permettant d'afficher à l'écran un produit sélectionné par son nom.
